@@ -21,6 +21,9 @@
 # 🗃️ Sobre o projeto
 Esse é uma automação de cadastro de produtos. Essa automação é responsável por realizar cadastros de produtos de informática, além de abrir o navegador desejado para abrir o site e logar na conta desejada.
 
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/03adb9b8-4291-46cf-bb08-69f91941afb0" />
+
+
 ---
 
 ## 🚀 Tecnologias utilizadas
